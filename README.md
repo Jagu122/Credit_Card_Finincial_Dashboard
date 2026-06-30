@@ -221,6 +221,7 @@ Credit-Card-Financial-Dashboard/
 - KPI Development
 
 📊 Business Insights & Recommendations
+
 1️⃣ High-Income Customers Drive Business Growth
 
 📊 Insight: High-income customers generated approximately $30M (52.6%) of the total $57M revenue, making them the most profitable customer segment.
