@@ -281,7 +281,8 @@ Credit-Card-Financial-Dashboard/
 
 💡 Recommendation: Maintain customer retention strategies while introducing seasonal campaigns to further accelerate quarterly growth.
 
-⭐ Executive Summary (Best for LinkedIn)
+⭐ Executive Summary 
+
 💰 Generated $57M in revenue from 667K transactions.
 💎 High-income customers contributed 52.6% of total revenue.
 💳 Blue Card generated 82.5% of total revenue.
